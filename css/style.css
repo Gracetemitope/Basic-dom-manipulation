@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#container {
+    width: 30rem;
+    height: 30rem;
+    border: 20px solid grey;
+    margin: 60px auto;
+}
+#color {
+    width: 15.5rem;
+    padding: 12px;
+    margin: 30px;
+
+}
